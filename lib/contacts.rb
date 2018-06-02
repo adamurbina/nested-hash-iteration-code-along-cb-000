@@ -15,7 +15,7 @@ require 'pry'
   }
 
 def remove_strawberry(contacts)
-    puts (contacts["Freddy Mercury"]["favorite_ice_cream_flavors"])
+    puts (contacts["Freddy Mercury"])
 end
 
 remove_strawberry(contacts)
